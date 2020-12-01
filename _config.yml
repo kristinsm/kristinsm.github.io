@@ -1,8 +1,8 @@
 # Site settings
 title: BY Heart
-SEOTitle: Kristinsm
+SEOTitle: Kristinsm | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: kristinsmabc@gmail.com
 description: "Every failure is leading towards success."
 keyword: ""
 url: "http://kristinsm.github.io"          # your host, for absolute URL
@@ -51,9 +51,6 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
